@@ -8,8 +8,8 @@ public class Main {
         double price = scanner.nextDouble();
         int priceForBonus = (int) price;
         int bonus;
-        bonus=priceForBonus/20;
-        System.out.println("Поздравляем! Вам начислено "+ bonus + " бонусных миль.");
+        bonus = priceForBonus / 20;
+        System.out.println("Поздравляем! Вам начислено " + bonus + " бонусных миль.");
 
     }
 }
